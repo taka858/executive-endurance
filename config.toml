@@ -1,6 +1,6 @@
 baseURL = "https://executive-marathon.com/"
 languageCode = "ja-JP"
-title = "Executive Endurance"
+title = "Executive Marathon"
 
 [outputs]
   home = ["HTML"]
