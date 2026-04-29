@@ -1,0 +1,7 @@
+baseURL = "https://executive-endurance.com/"
+languageCode = "ja-JP"
+title = "Executive Endurance"
+theme = ""
+
+[outputs]
+  home = ["HTML"]
