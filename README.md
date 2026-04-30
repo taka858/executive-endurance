@@ -1,6 +1,7 @@
 # Executive Marathon & Triathlon Blog
 Executive Marathon - アフィリエイトブログ構築プロジェクト
 
+
 ## プロジェクト概要
 - **サイト名**: Executive Marathon
 - **URL**: https://executive-marathon.com
